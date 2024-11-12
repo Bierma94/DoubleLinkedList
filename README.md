@@ -1,6 +1,7 @@
 # DoubleLinkedList
 
 Diese Aufgabe wurde im Rahmen einer Einsendeaufgabe für die Hochschule Emden-Leer im Modul Algorithmen und Datenstrukturen erstellt.
+WS 24/25
 
 ## Allgemeine Beschreibung
 
