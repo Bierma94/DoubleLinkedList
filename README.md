@@ -7,7 +7,7 @@ Diese Aufgabe wurde im Rahmen einer Einsendeaufgabe für die Hochschule Emden-Le
 Das Projekt implementiert eine doppelt verkettete Liste in Java. Es enthält Methoden zum Einfügen, Suchen und Löschen von Elementen in der Liste. Die Liste unterstützt generische Datentypen und bietet grundlegende Operationen für die Verwaltung der Elemente.
 
 
-## Authors
+## Author
 
-- [Jannes Bierma](jannes-bierma@web.de)
+- Jannes Bierma
 
