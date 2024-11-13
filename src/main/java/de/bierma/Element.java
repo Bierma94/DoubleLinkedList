@@ -1,5 +1,11 @@
 package de.bierma;
 
+/**
+ * Element  
+ *
+ * @author Jannes Bierma
+ * @version 1.0 - 12.11.2024
+ */
 public class Element<T> {
     /** Der Schlüssel der gespeichert werden soll*/
     T key;

@@ -8,6 +8,7 @@ public class Main {
         System.out.println("Fügt 10 Elemente am Anfang und 10 am Ende der Liste ein");
         for(int i = 0; i < 10; i++) {
             listHelper.insertLast(list, new Element<>(i));
+            
         }
 
         for(int i = 10; i < 20; i++) {
