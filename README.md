@@ -11,4 +11,6 @@ Das Projekt implementiert eine doppelt verkettete Liste in Java. Es enthält Met
 ## Author
 
 - Jannes Bierma
-
+- Michel Honsbein
+- Lukas Sinning
+- Jonas Reil
