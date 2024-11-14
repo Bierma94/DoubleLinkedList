@@ -13,6 +13,8 @@ public class Main {
         for(int i = 10; i < 20; i++) {
             listHelper.insertFirst(list, new Node<>(i));
         }
+
+
         System.out.println(list);
         System.out.println("Löscht das Node mit dem Schlüssel 10");
         //Nutzt die search Methode um das Node mit dem Schlüssel 10 zu finden

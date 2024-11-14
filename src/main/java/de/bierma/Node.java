@@ -3,7 +3,6 @@ package de.bierma;
 /**
  * Node
  *
- * @author Jannes Bierma
  * @version 1.0 - 12.11.2024
  */
 public class Node<T> {

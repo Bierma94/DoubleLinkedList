@@ -3,7 +3,6 @@ package de.bierma;
 /**
  * LinkedListMethods
  *
- * @author Jannes Bierma
  * @version 1.0 - 12.11.2024
  */
 public class LinkedListAlgorithm<T>  {
