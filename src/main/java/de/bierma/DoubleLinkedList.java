@@ -36,8 +36,7 @@ public class DoubleLinkedList<T>  {
     @Override
     public String toString() {
         StringBuilder sb = new StringBuilder();
-        Node
-<T> x = head;
+        Node<T> x = head;
         while (x != null) {
             sb.append(x);
             sb.append(" ");
