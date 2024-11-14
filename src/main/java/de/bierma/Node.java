@@ -37,8 +37,8 @@ public class Node<T> {
 
     public void setPrev(Node<T> prev) {this.prev = prev;}
     /**
-     * Gibt das Element als String zurück
-     * @return das Element als String
+     * Gibt den Schlüssel als String zurück
+     * @return der Schlüssel als String
      */
     @Override
     public String toString() {
