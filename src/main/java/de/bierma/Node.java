@@ -1,7 +1,7 @@
 package de.bierma;
 
 /**
- * Element  
+ * Node
  *
  * @author Jannes Bierma
  * @version 1.0 - 12.11.2024
